@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amasick?tab=repositories](https://github.com/amasick?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@amankaushik0159](https://medium.com/@amankaushik0159)
+- 📝 I regularly write articles on [https://medium.com/@amasick](https://medium.com/@amasick)
 
 - 💬 Ask me about **deep learning,computer vision, llama**
 
