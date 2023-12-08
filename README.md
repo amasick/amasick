@@ -1,4 +1,7 @@
-[![MasterHead]( https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)]
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="MasterHead" width="100%">
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Aman Kaushik</h1>
